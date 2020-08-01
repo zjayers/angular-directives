@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Showcase of attribute directives built with Angular",
-  "homepage": "https://github.com/zjayers/angular-directives#readme",
+  "homepage": "https://zjayers.github.io/angular-directives/",
   "bugs": {
     "url": "https://github.com/zjayers/angular-directives/issues"
   },
