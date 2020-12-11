@@ -2,7 +2,6 @@
 [![GitHub Release](https://img.shields.io/github/release/zjayers/angular-directives.svg?style=flat)](https://github.com/zjayers/angular-directives/releases)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/angular-directives.svg?style=flat)](https://github.com/zjayers/angular-directives/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/angular-directives.svg?maxAge=25000)](https://github.com/zjayers/angular-directives/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/angular-directives/blob/master/LICENSE)
 
 ## Description
 
